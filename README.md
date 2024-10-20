@@ -2,6 +2,8 @@
 
 A simple currency converter web app built with HTML, CSS, and JavaScript, using the ExchangeRate API to fetch live conversion rates between different currencies. 🌍💸
 
+![asdasd](https://raw.githubusercontent.com/AE-Hertz/Currency-Converter/refs/heads/main/john-mcarthur--ca8YHMKxFU-unsplash.jpg)
+
 ## ✨ Features
 
 - 💵 Convert between multiple currencies using live exchange rates.
